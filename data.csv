@@ -1,0 +1,14 @@
+name,height,weight,age,gender
+Liam,5.6,85,25,Male
+Noah,5.6,102,45,Male
+William,6.1,94,65,Male
+James,5.9,66,44,Male
+Oliver,6.5,98,25,Male
+Benjamin,5.5,85,61,Male
+Elijah,5.2,,12,Male
+Lucas,,85,41,Male
+Mason,5.4,65,66,Male
+Amelia,5.1,66,24,Female
+Harper,4.9,55,32,Female
+Evelyn,5.1,64,37,Female
+Abigail,5.2,75,,Female
